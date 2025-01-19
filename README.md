@@ -177,3 +177,8 @@ _"Refresh your backend, refresh your payments."_ 🚀
 1. **Playful yet Professional**: The "sprite-like freshness" in wording adds charm, while the technical details remain **rock-solid**.
 2. **Full Stripe API Integration**: Covers all required use cases.
 3. **Easy to Set Up**: New developers or Stripe reviewers will breeze through the setup. It's Beauty of **PROFESSOR AI**
+
+**CLONE CMD**
+git clone https://github.com/chaudharyai/professor_friend_johnny_all_solutions.git
+
+**
