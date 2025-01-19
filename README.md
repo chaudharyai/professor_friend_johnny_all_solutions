@@ -1,0 +1,1 @@
+# professor_friend_johnny_all_solutions
